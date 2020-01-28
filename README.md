@@ -15,3 +15,15 @@ When update role is selected the user will be asked for the role to modified. Re
 -Javascript
 -Node
 -MySQL
+
+## User Story
+
+AS An administrative manager, I want to be able to record employee data
+
+I WANT to be able to modify existing data
+
+SO THAT I can keep track of my employees
+
+## Business Context
+
+For managers that have many employees, a program for recording information in a viewable spreadsheet will prove convenient when any paperwork needs to be done regarding an employee. The ability to save time by quickly entering and returing data can be invaluable.
