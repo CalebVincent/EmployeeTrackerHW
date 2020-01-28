@@ -140,13 +140,7 @@ function addRole() {
     console.log(data);
     connection.end()
 })}
-// add employees
 
-// view (SELECT * FROM) departments
-
-// view roles
-
-// view employees
 
 // update roles 
 function updateEmployee() {
